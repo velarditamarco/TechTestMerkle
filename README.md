@@ -1,3 +1,3 @@
 # TechTestMerkle
 
-# Simple .NET core console application that print the result of each methods. 
+# Simple .NET core console application that prints the result of each methods. 
